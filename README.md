@@ -1,10 +1,14 @@
 # MIRAI : Evaluating LLM Agents for Event Forecasting
 
-This repository contains the code and data for the paper "MIRAI: Evaluating LLM Agents for Event Forecasting".
+This repository contains the code and data for the paper "**MIRAI: Evaluating LLM Agents for Event Forecasting**" by Chenchen Ye*, Ziniu Hu*, Yihe Deng*, Zijie Huang, Mingyu Derek Ma, Yanqiao Zhu, and Wei Wang.
 
 [![Homepage](https://img.shields.io/badge/Home-Access-red?style=flat)](https://mirai-llm.github.io/)
 [![Data](https://img.shields.io/badge/Data-Access-brightgreen?style=flat)](https://drive.google.com/file/d/1xmSEHZ_wqtBu1AwLpJ8wCDYmT-jRpfrN/view?usp=sharing)
 [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QyqT35n6NbtPaNtqQ6A7ILG_GMeRgdnO?usp=sharing)
+
+
+https://github.com/yecchen/MIRAI/assets/109169855/f2c44af4-b2e1-4b5f-bc2a-e0ac6a74e58a
+
 
 
 ## Table of Contents
