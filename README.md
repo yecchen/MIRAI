@@ -1,6 +1,6 @@
 # MIRAI : Evaluating LLM Agents for Event Forecasting
 
-This repository contains the code and data for the paper "**MIRAI: Evaluating LLM Agents for Event Forecasting**".
+This repository contains the code and data for the paper "**[MIRAI: Evaluating LLM Agents for Event Forecasting](https://arxiv.org/abs/2407.01231)**".
 
 Authors (*Equal Contribution): [Chenchen Ye](https://yecchen.github.io/)\*, [Ziniu Hu](https://acbull.github.io/)\*, [Yihe Deng](https://sites.google.com/g.ucla.edu/yihedeng/)\*, [Zijie Huang](https://zijieh.github.io/), [Mingyu Derek Ma](https://derek.ma/), [Yanqiao Zhu](https://sxkdz.github.io/), [Wei Wang](https://web.cs.ucla.edu/~weiwang/).
 
@@ -9,10 +9,24 @@ Authors (*Equal Contribution): [Chenchen Ye](https://yecchen.github.io/)\*, [Zin
 [![Demo Notebook](https://img.shields.io/badge/Demo-Notebook-yellow?style=flat)](https://colab.research.google.com/drive/1QyqT35n6NbtPaNtqQ6A7ILG_GMeRgdnO?usp=sharing)
 [![Demo Video](https://img.shields.io/badge/Demo-Video-red?style=flat)](https://colab.research.google.com/drive/1QyqT35n6NbtPaNtqQ6A7ILG_GMeRgdnO?usp=sharing)
 
+**Citation**: If you find this repo useful for your research, please consider citing the paper
+```
+@misc{ye2024miraievaluatingllmagents,
+      title={MIRAI: Evaluating LLM Agents for Event Forecasting}, 
+      author={Chenchen Ye and Ziniu Hu and Yihe Deng and Zijie Huang and Mingyu Derek Ma and Yanqiao Zhu and Wei Wang},
+      year={2024},
+      eprint={2407.01231},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2407.01231}, 
+}
+```
+
 
 https://github.com/yecchen/MIRAI/assets/109169855/f2c44af4-b2e1-4b5f-bc2a-e0ac6a74e58a
 
-
+## 🔔 News 
+- **[07/01/2024]** Our paper is released on arXiv: https://arxiv.org/abs/2407.01231.
 
 ## Table of Contents
 - [About MIRAI](#About-MIRAI)
